@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damianbrands&label=Profile%20views&color=0e75b6&style=flat" alt="damianbrands" /> </p>
 
-- 🌱 I’m currently learning: **Vue.js and C#**
+- 🌱 I’m currently learning: **React**
 
 <h3 align="left">Connect with me:</h3>
 
