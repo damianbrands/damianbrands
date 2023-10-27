@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damianbrands&label=Profile%20views&color=0e75b6&style=flat" alt="damianbrands" /> </p>
 
 - 🌱 I’m currently learning: **UX/UI Design & Angular**
+- ✨ At the moment I'm doing an internship at **Sparkles**
 
 <h3 align="left">Connect with me:</h3>
 
