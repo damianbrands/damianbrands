@@ -1,5 +1,5 @@
 <h2 align="center">hi, i'm damian brands</h2>
-<h3 align="center">fourth year student software development at the hogeschool utrecht, the netherlands</h3>
+<h3 align="left">fourth year student software development at the hogeschool utrecht, the netherlands</h3>
 
 
 - i'm currently doing advent of code in python
