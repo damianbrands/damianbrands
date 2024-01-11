@@ -2,7 +2,6 @@
 <h3 align="left">fourth year student software development at the hogeschool utrecht, the netherlands</h3>
 
 
-- i'm currently doing advent of code in python
 - i'm doing an internship at *sparkles*
 
 
