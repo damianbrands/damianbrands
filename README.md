@@ -1,11 +1,11 @@
-<h2 align="center">hi, i'm damian brands</h2>
-<h3 align="left">fourth year student software development at the hogeschool utrecht, the netherlands</h3>
+<h2 align="center">Hi, i'm Damian Brands</h2>
+<h3 align="left">Fourth year student software development at the Hogeschool Utrecht, The Netherlands</h3>
 
-<h3 align="left">connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 - contact: **brandsdamian@gmail.com**
 
-<h3 align="left">languages and tools:</h3>
+<h3 align="left">Languages and tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react,vue,firebase,py,cs,java,spring,postman,ps,figma)](https://github.com/damianbrands)
 
