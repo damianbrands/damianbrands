@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- contact: **brandsdamian@gmail.com**
+- Contact: **brandsdamian@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
