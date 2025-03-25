@@ -7,7 +7,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react,vue,firebase,py,cs,java,spring,postman,ps,figma)](https://github.com/damianbrands)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,react,vue,firebase,py,cs,java,spring,postman,ps,figma)](https://github.com/damianbrands)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damianbrands&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="damianbrands" /></p>
